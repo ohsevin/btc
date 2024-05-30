@@ -26,12 +26,12 @@
   },
   "dependencies": {
     "sdk": "0.2.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "async": "~0.9.0",
     "colors": "~0.6.2",
-    "moment": "~2.8.1",
+    "moment": "~2.30.1",
     "consoler": "~0.0.8",
-    "underscore": "~1.6.0",
+    "underscore": "~1.13.6",
     "term-list-enhanced": "0.1.0"
   }
 }
