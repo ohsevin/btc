@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "sdk": "0.2.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "async": "~0.9.0",
     "colors": "~0.6.2",
     "moment": "~2.8.1",
